@@ -29,6 +29,5 @@ public class Config implements CommandLineRunner {
         hotelRepository.save(h1);
         hotelRepository.save(h2);
         hotelRepository.save(h3);
-
     }
 }
